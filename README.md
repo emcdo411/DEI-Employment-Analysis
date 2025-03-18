@@ -18,7 +18,11 @@ The following table showcases the percentage of employable individuals by ethnic
 ### **Pie Chart Representation of Employment Distribution**
 Below is a **pie chart** visualizing employment distribution across different ethnic groups in all industries:
 
-![Employment Distribution Pie Chart](employment_distribution_pie.png)
+![image](https://github.com/user-attachments/assets/4302f59a-e2af-427e-a375-8721bca2f1e0)
+![image](https://github.com/user-attachments/assets/a61a519d-fe5a-4fe2-89bc-ebe107eef32a)
+
+
+
 
 > **Note:** This pie chart represents a cumulative employment distribution across all analyzed sectors.
 
