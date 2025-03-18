@@ -83,7 +83,8 @@ The following charts illustrate the percentage representation of each ethnic gro
 ![Education Employment Chart](education_employment_chart.png)
 
 ### IT Employment Distribution
-![IT Employment Chart](it_employment_chart.png)
+![image](https://github.com/user-attachments/assets/e594eed1-1f70-40bd-bec9-7b18d74b3262)
+
 
 ## Conclusion
 This study demonstrates that DEI policies have had a significant impact on employment diversity across multiple industries. While challenges exist, the benefits of increased representation and inclusivity contribute to stronger, more equitable workplaces. The data provided aims to counter misinformation and reinforce the importance of DEI initiatives in creating fair employment opportunities for all.
