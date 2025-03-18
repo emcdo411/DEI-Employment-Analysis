@@ -64,6 +64,36 @@ This case study aims to examine the impact of Diversity, Equity, and Inclusion (
 | Education | Diverse faculty improves student outcomes | Some institutions struggle with retention of diverse hires | Creates a more inclusive learning environment |
 | IT | Increased innovation through diverse teams | Underrepresentation of minorities persists | Helps address bias in technology and AI development |
 
+Here are two charts focusing on how DEI data affects **veterans** and **persons with disabilities** in the workforce across key sectors.  
+
+### **Chart 1: Veterans & Persons with Disabilities Employment by Sector (%)**  
+
+| Sector          | Veterans (%) | Persons with Disabilities (%) |  
+|---------------|-------------|----------------------------|  
+| Federal        | 31.1        | 14.0                       |  
+| Healthcare     | 6.5         | 10.0                       |  
+| Construction   | 15.0        | 7.2                        |  
+| Banking/Finance| 7.8         | 5.5                        |  
+| Education      | 6.3         | 8.0                        |  
+| IT            | 10.5        | 6.8                        |  
+
+---
+
+### **Chart 2: Impact of DEI on Veterans & Persons with Disabilities**  
+
+| Sector          | Pros | Cons | Why It Matters |  
+|---------------|------|------|---------------|  
+| **Federal** | Strong DEI initiatives; veteran hiring preference; disability hiring quotas. | Competitive hiring process despite initiatives. | Veterans and disabled individuals get federal protections, but more targeted support is needed. |  
+| **Healthcare** | Growing demand; many roles adapted for disabilities; veteran-friendly certifications. | Physical job demands can limit some opportunities. | High potential for employment but needs better accommodations. |  
+| **Construction** | Some veteran-friendly programs (e.g., Helmets to Hardhats). | Physically demanding; few disability accommodations. | Strong opportunities for skilled veterans but limited accessibility for disabled workers. |  
+| **Banking/Finance** | Corporate DEI programs expanding veteran & disability hiring. | Less outreach to disabled workers; veterans may lack industry experience. | More awareness and training programs could improve outcomes. |  
+| **Education** | Preference for veterans in leadership & security roles; disability accommodations exist. | Lower pay; fewer veteran-specific initiatives. | Some opportunities exist, but career growth can be slow. |  
+| **IT** | High demand for skills; remote work opportunities benefit disabled individuals. | Certifications required; veterans may need retraining. | Strongest potential for career growth if retraining is accessible. |  
+
+This data shows that while **DEI policies create more opportunities**, **gaps still exist**, especially for veterans transitioning into **corporate** and **skilled labor** jobs, and for **disabled workers needing accommodations**.  
+
+Would you like me to add these charts to your GitHub README? 🚀
+
 ## Data Visualization
 The following charts illustrate the percentage representation of each ethnic group in various sectors:
 
