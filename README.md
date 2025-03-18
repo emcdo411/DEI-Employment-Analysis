@@ -97,6 +97,36 @@ Would you like me to add these charts to your GitHub README? 🚀
 ## Data Visualization
 The following charts illustrate the percentage representation of each ethnic group in various sectors:
 
+## DEI Workforce Insights
+
+As a Business Analyst, I love digging into data to uncover trends. Here’s a look at Veterans and Persons with Disabilities representation across key sectors—insights that matter for inclusive strategy.
+
+### Veterans by Sector
+This bar graph shows the percentage of Veterans in each sector’s workforce:
+
+![Veterans in Workforce by Sector](https://github.com/yourusername/BA-Playbook/raw/main/images/veterans-bar-chart.png)
+
+- Federal: 31.1%  
+- Healthcare: 6.5%  
+- Construction: 15.0%  
+- Banking/Finance: 7.8%  
+- Education: 6.3%  
+- IT: 10.5%
+
+### Persons with Disabilities by Sector
+Here’s the breakdown for Persons with Disabilities across the same sectors:
+
+![Persons with Disabilities in Workforce by Sector](https://github.com/yourusername/BA-Playbook/raw/main/images/disabilities-bar-chart.png)
+
+- Federal: 14.0%  
+- Healthcare: 10.0%  
+- Construction: 7.2%  
+- Banking/Finance: 5.5%  
+- Education: 8.0%  
+- IT: 6.8%
+
+*Source: Data reflects industry trends as of [insert source or date if known].*
+
 ### Federal Employment Distribution
 ![image](https://github.com/user-attachments/assets/6aaff448-e1f9-47c2-a8a4-acfc17677e60)
 
