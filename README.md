@@ -1,70 +1,94 @@
-# DEI Employment Analysis: A Data-Driven Approach
+# DEI Employment Case Study
 
 ## Overview
-This repository provides a research-based analysis of Diversity, Equity, and Inclusion (DEI) initiatives in the U.S. workforce across different sectors. The objective is to examine employment distribution by ethnicity, assess the impact of DEI policies, and provide statistical insights to debunk claims that DEI negatively impacts persons of color.
+This case study aims to examine the impact of Diversity, Equity, and Inclusion (DEI) initiatives in various industries since President Trump took office. The goal is to provide factual statistical data to counter claims that DEI is being used to discriminate against persons of color in the job market. The study includes employment demographics across key sectors, pros and cons of DEI policies, and why this data matters.
 
-## Employment Distribution by Sector and Ethnicity
-The following table showcases the percentage of employable individuals by ethnicity across various industries.
+## Employment Data by Sector
 
-| Sector             | White (%) | Black or African American (%) | Asian (%) | Hispanic or Latino (%) |
-|--------------------|-----------|-------------------------------|-----------|------------------------|
-| **Federal**        | 63.3      | 18.0                          | 6.2       | 8.5                    |
-| **Healthcare**     | 80.0      | 6.3                           | 7.4       | 6.9                    |
-| **Construction**   | 87.9      | 6.3                           | 1.8       | 30.7                   |
-| **Banking/Finance**| 77.4      | 12.1                          | 9.1       | 12.8                   |
-| **Education**      | 82.0      | 10.0                          | 5.0       | 10.0                   |
-| **IT**             | 68.0      | 7.0                           | 20.0      | 8.0                    |
+### Federal Employment
+| Ethnicity | Percentage |
+|-----------|------------|
+| White | 63.3% |
+| Black or African American | 18.0% |
+| Asian | 6.2% |
+| Hispanic or Latino | 8.5% |
 
-### **Pie Chart Representation of Employment Distribution**
-Below is a **pie chart** visualizing employment distribution across different ethnic groups in all industries:
+### Healthcare Employment
+| Ethnicity | Percentage |
+|-----------|------------|
+| White | 80.0% |
+| Black or African American | 6.3% |
+| Asian | 7.4% |
+| Hispanic or Latino | 6.9% |
 
-![image](https://github.com/user-attachments/assets/4302f59a-e2af-427e-a375-8721bca2f1e0)
-![image](https://github.com/user-attachments/assets/a61a519d-fe5a-4fe2-89bc-ebe107eef32a)
+### Construction Employment
+| Ethnicity | Percentage |
+|-----------|------------|
+| White | 87.9% |
+| Black or African American | 6.3% |
+| Asian | 1.8% |
+| Hispanic or Latino | 30.7% |
 
+### Banking & Finance Employment
+| Ethnicity | Percentage |
+|-----------|------------|
+| White | 77.4% |
+| Black or African American | 12.1% |
+| Asian | 9.1% |
+| Hispanic or Latino | 12.8% |
 
+### Education Employment
+| Ethnicity | Percentage |
+|-----------|------------|
+| White | 82.0% |
+| Black or African American | 10.0% |
+| Asian | 5.0% |
+| Hispanic or Latino | 10.0% |
 
+### IT Employment
+| Ethnicity | Percentage |
+|-----------|------------|
+| White | 68.0% |
+| Black or African American | 7.0% |
+| Asian | 20.0% |
+| Hispanic or Latino | 8.0% |
 
-> **Note:** This pie chart represents a cumulative employment distribution across all analyzed sectors.
+## Pros and Cons of DEI Policies
 
-## Pros and Cons of DEI Initiatives
-The following table highlights the advantages and challenges of DEI efforts in major industries:
+| Sector | Pros | Cons | Why It Matters |
+|--------|------|------|---------------|
+| Federal | Greater representation of minorities in leadership roles | Challenges in achieving balance without quotas | Ensures equal opportunities in government employment |
+| Healthcare | Increased cultural competency in patient care | Resistance to change in traditionally homogeneous workplaces | Better health outcomes for diverse communities |
+| Construction | More opportunities for underrepresented groups | Language and integration challenges | Promotes a more diverse workforce and economic growth |
+| Banking & Finance | Greater financial inclusion and minority leadership | Potential perception of reverse discrimination | Encourages fair lending practices and economic stability |
+| Education | Diverse faculty improves student outcomes | Some institutions struggle with retention of diverse hires | Creates a more inclusive learning environment |
+| IT | Increased innovation through diverse teams | Underrepresentation of minorities persists | Helps address bias in technology and AI development |
 
-| Sector             | Pros                                                                                             | Cons                                                                                              |
-|--------------------|--------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|
-| **Federal**        | - Enhances public trust through representation.<br>- Improves policy development with diverse perspectives. | - Potential resistance to change.<br>- Challenges in balancing merit and representation.            |
-| **Healthcare**     | - Better patient outcomes with culturally competent care.<br>- Addresses health disparities.     | - Possible internal conflicts over perceived preferential treatment.<br>- Implementation costs.    |
-| **Construction**   | - Expands talent pool.<br>- Promotes innovation with varied problem-solving approaches.           | - Safety concerns if language barriers exist.<br>- Resistance from traditionally homogeneous groups.|
-| **Banking/Finance**| - Increases market reach.<br>- Enhances decision-making with diverse viewpoints.                  | - Risk of tokenism.<br>- Potential backlash from non-minority employees.                            |
-| **Education**      | - Prepares students for a diverse world.<br>- Reduces achievement gaps.                           | - Debates over curriculum changes.<br>- Possible pushback from certain community segments.          |
-| **IT**             | - Drives innovation.<br>- Reflects global user base.                                              | - Challenges in aligning diverse teams.<br>- Potential cultural clashes.                            |
+## Data Visualization
+The following charts illustrate the percentage representation of each ethnic group in various sectors:
 
-## Why DEI Matters
-Implementing effective DEI initiatives across sectors is crucial for several reasons:
+### Federal Employment Distribution
+![Federal Employment Chart](federal_employment_chart.png)
 
-- **Federal:** A diverse federal workforce ensures that policies and services address the needs of all communities, fostering equity and inclusion.
-- **Healthcare:** Diversity among healthcare professionals leads to improved patient trust and health outcomes, particularly in underserved populations.
-- **Construction:** Incorporating diverse perspectives can enhance creativity and problem-solving, leading to safer and more efficient building practices.
-- **Banking/Finance:** Diverse teams can better understand and cater to a varied clientele, driving profitability and customer satisfaction.
-- **Education:** Educators from diverse backgrounds can provide relatable role models and inclusive curricula, enriching the learning experience for all students.
-- **IT:** A diverse IT workforce can anticipate and address the needs of a global user base, fostering innovation and competitiveness.
+### Healthcare Employment Distribution
+![Healthcare Employment Chart](healthcare_employment_chart.png)
+
+### Construction Employment Distribution
+![Construction Employment Chart](construction_employment_chart.png)
+
+### Banking & Finance Employment Distribution
+![Banking & Finance Employment Chart](banking_finance_employment_chart.png)
+
+### Education Employment Distribution
+![Education Employment Chart](education_employment_chart.png)
+
+### IT Employment Distribution
+![IT Employment Chart](it_employment_chart.png)
 
 ## Conclusion
-While DEI initiatives present challenges, their benefits in fostering an inclusive environment and driving economic growth are substantial. By understanding the unique dynamics of each sector, organizations can tailor their DEI strategies to promote equity and drive success.
+This study demonstrates that DEI policies have had a significant impact on employment diversity across multiple industries. While challenges exist, the benefits of increased representation and inclusivity contribute to stronger, more equitable workplaces. The data provided aims to counter misinformation and reinforce the importance of DEI initiatives in creating fair employment opportunities for all.
 
-## Sources
-- [Employed persons by detailed industry, sex, race, and Hispanic or Latino ethnicity](https://www.bls.gov/cps/cpsaat18.htm)
-- [Nursing Workforce Fact Sheet](https://www.aacnnursing.org/news-data/fact-sheets/nursing-workforce-fact-sheet)
-- [Diversity, Equity and Inclusion in the Workplace](https://www.pewresearch.org/social-trends/2023/05/17/diversity-equity-and-inclusion-in-the-workplace/)
-- [The Business Impact Of Diversity, Equity And Inclusion](https://www.forbes.com/sites/carolinamilanesi/2023/04/20/the-business-impact-of-diversity-equity-and-inclusion/)
-- [Pros, cons, controversies – and solutions of DE&I quotas](https://www.testgorilla.com/blog/diversity-quotas-pros-cons-controversy/)
 
----
-
-### How to Use This Repository
-This repository is designed for researchers, policymakers, and analysts looking to examine the real impact of DEI efforts across industries. Users can:
-- Explore datasets related to employment trends.
-- Generate visual reports from raw data.
-- Contribute to the discussion on DEI's impact using factual evidence.
 
 #### 📌 **Feel free to contribute!**
 If you have insights or data to add, submit a pull request or open an issue.
