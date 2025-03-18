@@ -78,8 +78,9 @@ Here are two charts focusing on how DEI data affects **veterans** and **persons 
 | IT            | 10.5        | 6.8                        |  
 
 ---
+![image](https://github.com/user-attachments/assets/1857b96c-0ba5-48d8-91d1-51c1c6ea485d)
 
-### **Chart 2: Impact of DEI on Veterans & Persons with Disabilities**  
+ 
 
 | Sector          | Pros | Cons | Why It Matters |  
 |---------------|------|------|---------------|  
