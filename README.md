@@ -68,19 +68,24 @@ This case study aims to examine the impact of Diversity, Equity, and Inclusion (
 The following charts illustrate the percentage representation of each ethnic group in various sectors:
 
 ### Federal Employment Distribution
-![Federal Employment Chart](federal_employment_chart.png)
+![image](https://github.com/user-attachments/assets/6aaff448-e1f9-47c2-a8a4-acfc17677e60)
+
 
 ### Healthcare Employment Distribution
-![Healthcare Employment Chart](healthcare_employment_chart.png)
+![image](https://github.com/user-attachments/assets/08ac6c2b-a54f-414c-98c6-1d952fd1e13b)
+
 
 ### Construction Employment Distribution
-![Construction Employment Chart](construction_employment_chart.png)
+![image](https://github.com/user-attachments/assets/66244943-e202-4ba0-b30e-11cec02cd2eb)
+
 
 ### Banking & Finance Employment Distribution
-![Banking & Finance Employment Chart](banking_finance_employment_chart.png)
+![image](https://github.com/user-attachments/assets/0635fba6-f567-40c7-ae80-b85db211a235)
+
 
 ### Education Employment Distribution
-![Education Employment Chart](education_employment_chart.png)
+![image](https://github.com/user-attachments/assets/fa0fa69a-76e2-4b7b-a3a1-12dd3a01a0e9)
+
 
 ### IT Employment Distribution
 ![image](https://github.com/user-attachments/assets/e594eed1-1f70-40bd-bec9-7b18d74b3262)
