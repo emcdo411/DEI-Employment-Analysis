@@ -24,10 +24,10 @@ This case study aims to examine the impact of Diversity, Equity, and Inclusion (
 ### Construction Employment
 | Ethnicity | Percentage |
 |-----------|------------|
-| White | 87.9% |
-| Black or African American | 6.3% |
-| Asian | 1.8% |
-| Hispanic or Latino | 30.7% |
+| Non Hispanic White | 57.2% |
+| Non Hispanic Black or African American | 6.3% |
+| Non Hispanic Asian | 1.8% |
+| Hispanic or Latino (all races)| 30.7% |
 
 ### Banking & Finance Employment
 | Ethnicity | Percentage |
